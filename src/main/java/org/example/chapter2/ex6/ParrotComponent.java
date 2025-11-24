@@ -9,5 +9,5 @@ public class ParrotComponent {
     public String getName() {
         return name;
     }
-    
+
 }
