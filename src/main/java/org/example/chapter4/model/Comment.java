@@ -1,11 +1,9 @@
 package org.example.chapter4.model;
 
 public class Comment {
-    private String author;
     private String text;
 
     public void setAuthor(String author) {
-        this.author = author;
     }
 
     public void setText(String text) {
