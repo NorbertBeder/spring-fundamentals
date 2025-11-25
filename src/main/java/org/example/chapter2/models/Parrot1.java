@@ -1,9 +1,9 @@
 package org.example.chapter2.models;
 
-public class Parrot {
+public class Parrot1 {
     private String name;
 
-    public Parrot() {
+    public Parrot1() {
     }
 
 

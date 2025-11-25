@@ -1,7 +1,7 @@
 package org.example.chapter2.ex8;
 
-import org.example.chapter2.ex8.config.ProjectConfig8;
-import org.example.chapter2.models.Parrot;
+import org.example.chapter2.ex8.config.ProjectConfig1_8;
+import org.example.chapter2.models.Parrot1;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import java.util.function.Supplier;
@@ -9,16 +9,16 @@ import java.util.function.Supplier;
 public class Main {
     static void main() {
         var context = new
-                AnnotationConfigApplicationContext(ProjectConfig8.class);
+                AnnotationConfigApplicationContext(ProjectConfig1_8.class);
 
-        Parrot x = new Parrot();
+        Parrot1 x = new Parrot1();
         x.setName("Kiki");
 
-        Supplier<Parrot> parrotSupplier = () -> x;
+        Supplier<Parrot1> parrotSupplier = () -> x;
 
-        context.registerBean("parrot1", Parrot.class, parrotSupplier);
+        context.registerBean("parrot1", Parrot1.class, parrotSupplier);
 
-        Parrot p = context.getBean(Parrot.class);
+        Parrot1 p = context.getBean(Parrot1.class);
         System.out.println(p.getName());
     }
 }

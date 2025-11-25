@@ -1,30 +1,30 @@
 package org.example.chapter2.ex5.config;
 
-import org.example.chapter2.models.Parrot;
+import org.example.chapter2.models.Parrot1;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
 @Configuration
-public class ProjectConfig5 {
+public class ProjectConfig1_5 {
     @Bean
-    Parrot parrot1() {
-        var p = new Parrot();
+    Parrot1 parrot1() {
+        var p = new Parrot1();
         p.setName("Koko");
         return p;
     }
 
     @Bean
     @Primary
-    Parrot parrot2() {
-        var p = new Parrot();
+    Parrot1 parrot2() {
+        var p = new Parrot1();
         p.setName("Miki");
         return p;
     }
 
     @Bean
-    Parrot parrot3() {
-        var p = new Parrot();
+    Parrot1 parrot3() {
+        var p = new Parrot1();
         p.setName("Riki");
         return p;
     }
