@@ -3,7 +3,6 @@ package org.example.chapter4.ex6.proxy;
 import org.example.chapter4.model.Comment;
 import org.example.chapter4.proxies.CommentNotificationProxy;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -3,7 +3,6 @@ package org.example.chapter4.ex6.service;
 import org.example.chapter4.model.Comment;
 import org.example.chapter4.proxies.CommentNotificationProxy;
 import org.example.chapter4.repositories.CommentRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 

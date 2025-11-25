@@ -9,10 +9,15 @@ import org.springframework.stereotype.Component;
 public class ParrotCircular {
     private String name = "Koko";
 
-    private final PersonCircular person;
-
     @Autowired
     public ParrotCircular(PersonCircular person) {
-        this.person = person;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }

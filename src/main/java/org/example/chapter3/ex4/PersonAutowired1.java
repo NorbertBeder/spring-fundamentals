@@ -7,10 +7,9 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class PersonAutowired1 {
-    private final String name = "Ella";
 
     public String getName() {
-        return  name;
+        return "Ella";
     }
 
     @Autowired

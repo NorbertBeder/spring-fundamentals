@@ -1,6 +1,5 @@
 package org.example.chapter3.ex9;
 
-import org.example.chapter3.models.Parrot3;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,6 @@
 package org.example.chapter3.ex9;
 
 import org.example.chapter3.ex9.config.ProjectConfig3_9;
-import org.example.chapter3.models.Person3;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

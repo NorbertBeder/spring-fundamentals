@@ -1,9 +1,6 @@
 package org.example.chapter3.ex9.config;
 
 import org.example.chapter3.ex9.Parrot3_9;
-import org.example.chapter3.models.Parrot3;
-import org.example.chapter3.models.Person3;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

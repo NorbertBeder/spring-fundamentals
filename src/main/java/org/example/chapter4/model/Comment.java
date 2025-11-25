@@ -12,10 +12,6 @@ public class Comment {
         this.text = text;
     }
 
-    public String getAuthor() {
-        return author;
-    }
-
     public String getText() {
         return text;
     }
