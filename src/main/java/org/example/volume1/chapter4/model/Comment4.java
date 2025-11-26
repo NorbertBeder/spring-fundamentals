@@ -1,6 +1,6 @@
 package org.example.volume1.chapter4.model;
 
-public class Comment {
+public class Comment4 {
     private String text;
     private String author;
 

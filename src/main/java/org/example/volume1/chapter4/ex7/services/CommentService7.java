@@ -1,7 +1,7 @@
 package org.example.volume1.chapter4.ex7.services;
 
 import org.example.volume1.chapter4.ex7.repositories.CommentRepository7;
-import org.example.volume1.chapter4.model.Comment;
+import org.example.volume1.chapter4.model.Comment4;
 import org.example.volume1.chapter4.proxies.CommentNotificationProxy;
 import org.springframework.stereotype.Service;
 
@@ -18,7 +18,7 @@ public class CommentService7 {
         this.commentNotificationProxy = commentNotificationProxy;
     }
 
-    public void publishComment(Comment comment) {
+    public void publishComment(Comment4 comment) {
         commentRepository.storeComment(comment);
         commentNotificationProxy.sendComment(comment);
     }

@@ -1,6 +1,6 @@
 package org.example.volume1.chapter4.ex1.services;
 
-import org.example.volume1.chapter4.model.Comment;
+import org.example.volume1.chapter4.model.Comment4;
 import org.example.volume1.chapter4.ex1.proxies.CommentNotificationProxyEx1;
 import org.example.volume1.chapter4.ex1.repositories.CommentRepositoryEx1;
 
@@ -14,7 +14,7 @@ public class CommentServiceEx1 {
         this.commentNotificationProxy = commentNotificationProxy;
     }
 
-    public void publishComment(Comment comment) {
+    public void publishComment(Comment4 comment) {
         commentRepository.storeComment(comment);
         commentNotificationProxy.sendComment(comment);
     }

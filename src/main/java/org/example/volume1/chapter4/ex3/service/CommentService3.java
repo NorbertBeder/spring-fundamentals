@@ -1,6 +1,6 @@
 package org.example.volume1.chapter4.ex3.service;
 
-import org.example.volume1.chapter4.model.Comment;
+import org.example.volume1.chapter4.model.Comment4;
 import org.example.volume1.chapter4.proxies.CommentNotificationProxy;
 import org.example.volume1.chapter4.repositories.CommentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +14,7 @@ public class CommentService3 {
     @Autowired
     private CommentNotificationProxy commentNotificationProxy;
 
-    public void publishComment(Comment comment){
+    public void publishComment(Comment4 comment){
         commentNotificationProxy.sendComment(comment);
         commentRepository.storeComment(comment);
     }
