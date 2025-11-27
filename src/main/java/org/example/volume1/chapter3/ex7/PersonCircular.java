@@ -1,0 +1,24 @@
+package org.example.volume1.chapter3.ex7;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+// Dealing with circular dependencies
+
+@Component
+public class PersonCircular {
+    private final ParrotCircular parrot;
+
+    @Autowired
+    public PersonCircular(ParrotCircular parrot) {
+        this.parrot = parrot;
+    }
+
+    public String getName() {
+        return "Joe";
+    }
+
+    public ParrotCircular getParrot() {
+        return parrot;
+    }
+}
