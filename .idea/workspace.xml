@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56883e22-212a-4e53-89b8-f6314d36da04" name="Changes" comment="changing project structure" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="springboot-mvc-exercises" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NorbertBeder&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NorbertBeder/spring-fundamentals.git&quot;,
+    &quot;accountId&quot;: &quot;1343ebd0-e7c1-437d-9707-d176780e48df&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="35v7c6LqgGuiQbsQL9bcQnAdIge" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex3.config.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter2.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex5.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.org.example.chapter3.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex8.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter3.ex9.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter4.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.chapter5.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter4.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter4.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter5.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.volume1.chapter6.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nbeder/IdeaProjects/spring-fundamentals/spring-basics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nbeder/IdeaProjects/spring-fundamentals/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\spring-basics" />
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\src\main\java\org\example\volume1\chapter6\ex7" />
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\src\main\java\org\example\volume1\chapter6\ex6" />
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\src\main\java\org\example\volume1\chapter6\ex5" />
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\src\main\java\org\example\volume1\chapter6\ex4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nbeder\IdeaProjects\spring-fundamentals\spring-basics" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.chapter5.ex7" />
+      <recent name="org.example.chapter5.ex6" />
+      <recent name="org.example.chapter5.ex5" />
+      <recent name="org.example.chapter5.ex4" />
+      <recent name="org.example.chapter5.ex3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.volume1.chapter6.ex3.Main">
+    <configuration name="org.example.volume1.chapter6.ex3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.volume1.chapter6.ex3.Main" />
+      <module name="spring-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.volume1.chapter6.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.volume1.chapter6.ex4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.volume1.chapter6.ex4.Main" />
+      <module name="spring-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.volume1.chapter6.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.volume1.chapter6.ex5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.volume1.chapter6.ex5.Main" />
+      <module name="spring-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.volume1.chapter6.ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.volume1.chapter6.ex6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.volume1.chapter6.ex6.Main" />
+      <module name="spring-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.volume1.chapter6.ex6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.volume1.chapter6.ex7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.volume1.chapter6.ex7.Main" />
+      <module name="spring-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.volume1.chapter6.ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.volume1.chapter6.ex7.Main" />
+        <item itemvalue="Application.org.example.volume1.chapter6.ex6.Main" />
+        <item itemvalue="Application.org.example.volume1.chapter6.ex5.Main" />
+        <item itemvalue="Application.org.example.volume1.chapter6.ex4.Main" />
+        <item itemvalue="Application.org.example.volume1.chapter6.ex3.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56883e22-212a-4e53-89b8-f6314d36da04" name="Changes" comment="" />
+      <created>1763978772913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763978772913</updated>
+      <workItem from="1763978775007" duration="9173000" />
+      <workItem from="1764057079110" duration="14114000" />
+      <workItem from="1764082095556" duration="493000" />
+      <workItem from="1764146759085" duration="12970000" />
+      <workItem from="1764232544396" duration="3423000" />
+      <workItem from="1764675977108" duration="418000" />
+      <workItem from="1764940032729" duration="81000" />
+      <workItem from="1765186923824" duration="222000" />
+      <workItem from="1765187171152" duration="143000" />
+      <workItem from="1765187405562" duration="406000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial gitignore commit">
+      <option name="closed" value="true" />
+      <created>1763980114826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763980114826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial gitignore commit">
+      <option name="closed" value="true" />
+      <created>1763980158793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763980158794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore change">
+      <option name="closed" value="true" />
+      <created>1763980421569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763980421569</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1763980434903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763980434903</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chapter2 examples">
+      <option name="closed" value="true" />
+      <created>1763991993728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763991993728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chapter2 examples">
+      <option name="closed" value="true" />
+      <created>1763992040224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763992040224</updated>
+    </task>
+    <task id="LOCAL-00007" summary="chapter3-4 examples">
+      <option name="closed" value="true" />
+      <created>1764081526916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764081526916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chapter3-4 examples">
+      <option name="closed" value="true" />
+      <created>1764081628129</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764081628129</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chapter3-4 examples">
+      <option name="closed" value="true" />
+      <created>1764081665136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764081665136</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chapter1-4 fixed because of moving files">
+      <option name="closed" value="true" />
+      <created>1764165825291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764165825291</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added aspects to pom">
+      <option name="closed" value="true" />
+      <created>1764165871162</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764165871162</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changing project structure">
+      <option name="closed" value="true" />
+      <created>1765187743824</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765187743824</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial gitignore commit" />
+    <MESSAGE value="gitignore change" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="chapter2 examples" />
+    <MESSAGE value="chapter3-4 examples" />
+    <MESSAGE value="chapter1-4 fixed because of moving files" />
+    <MESSAGE value="added aspects to pom" />
+    <MESSAGE value="chapter5-6 done" />
+    <MESSAGE value="changing project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing project structure" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
