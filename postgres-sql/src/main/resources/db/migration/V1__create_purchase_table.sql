@@ -1,0 +1,5 @@
+CREATE TABLE purchase(
+    id SERIAL PRIMARY KEY,
+    product VARCHAR(50) NOT NULL,
+    price DOUBLE PRECISION NOT NULL
+)
